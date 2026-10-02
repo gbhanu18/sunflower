@@ -1,13 +1,11 @@
 # Sunflower
 
-Full-stack web app with a React frontend and a Python backend that serves trained ML models.
-
-> TODO: Replace this line with 1-2 sentences on what Sunflower does and who it's for.
+Full-stack web app for analysing sunflower crop data with machine learning. Users sign in, run analyses with trained models, view results, and export reports as PDF.
 
 ## Live demo
 
-- Frontend: TODO (Vercel link)
-- Backend API: TODO (Render link)
+- Frontend: https://YOUR-APP.vercel.app
+- Backend API: https://YOUR-APP.onrender.com
 
 ## Features
 
@@ -19,6 +17,7 @@ Full-stack web app with a React frontend and a Python backend that serves traine
 - TODO: add your main feature (e.g. model predictions)
 
 ## Tech stack
+- ML-powered predictions from trained models served by the Flask API
 
 **Frontend:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, deployed on Vercel
 
@@ -67,4 +66,5 @@ TODO: add 2-3 screenshots of the dashboard and results page.
 ## Author
 
 Gujjala Bhanuprakash
+
 GitHub: [@gbhanu18](https://github.com/gbhanu18)
